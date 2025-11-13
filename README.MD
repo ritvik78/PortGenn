@@ -66,15 +66,6 @@ Example:
 
 ---
 
-## 🧑‍💻 Author
-
-**Jaskaran Singh**  
-🎓 Electrical and Computer Engineering @ Thapar Institute  
-📍 Jamshedpur, India  
-🔗 [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/your-username)
-
----
-
 ## 📜 License
 
 This project is released under the **MIT License** — feel free to use and modify it.
